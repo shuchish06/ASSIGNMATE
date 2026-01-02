@@ -48,12 +48,12 @@ A walkthrough of the application user interface.
 ### **Onboarding Flow**
 | Splash Screen | Create Account | Student Login |
 |:---:|:---:|:---:|
-| <img src="screenshots/splash.png" width="240" alt="Splash Screen"> | <img src="screenshots/signup.png" width="240" alt="Sign Up Screen"> | <img src="screenshots/login.png" width="240" alt="Login Screen"> |
+| <img src="snippets/splash.png" width="240" alt="Splash Screen"> | <img src="snippets/signup.png" width="240" alt="Sign Up Screen"> | <img src="snippets/login.png" width="240" alt="Login Screen"> |
 
 ### **Main Dashboard & Actions**
 | Courses Enrolled | Assignment Tracker | Submit Task |
 |:---:|:---:|:---:|
-| <img src="screenshots/courses.png" width="240" alt="Courses Dashboard"> | <img src="screenshots/assignments.png" width="240" alt="Assignment List"> | <img src="screenshots/submit.png" width="240" alt="Submission Screen"> |
+| <img src="snippets/courses.png" width="240" alt="Courses Dashboard"> | <img src="snippets/assignments.png" width="240" alt="Assignment List"> | <img src="snippets/submit.png" width="240" alt="Submission Screen"> |
 
 ## 🛠 Tech Stack
 
@@ -126,7 +126,7 @@ To run this project locally, you need **Android Studio** and a valid **Firebase 
 
 ### 1. 📥 Clone the Repository
 ```bash
-git clone https://github.com/shuchish06/ASSIGNMATE.git
+git clone [https://github.com/shuchish06/ASSIGNMATE.git](https://github.com/shuchish06/ASSIGNMATE.git)
 ```
 
 ### 2. 📱 Open in Android Studio
@@ -159,6 +159,13 @@ In the Firebase Console:
 * Firebase account
 * Internet connection
 
+## 🤝 Contributing
+Contributions are welcome!
+1.  Fork the repository.
+2.  Create a feature branch (`git checkout -b feature/NewFeature`).
+3.  Commit your changes.
+4.  Push to the branch.
+5.  Open a Pull Request.
 
 ## 📞 Contact
 **Shuchi** GitHub: [@shuchish06](https://github.com/shuchish06)
