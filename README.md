@@ -159,13 +159,10 @@ In the Firebase Console:
 * Firebase account
 * Internet connection
 
-## 🤝 Contributing
-Contributions are welcome!
-1.  Fork the repository.
-2.  Create a feature branch (`git checkout -b feature/NewFeature`).
-3.  Commit your changes.
-4.  Push to the branch.
-5.  Open a Pull Request.
+## 🎥 Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/drive/folders/17EVn_iiMUATVERsirQBhDObVoVZnuB6c?usp=drive_link)
+
 
 ## 📞 Contact
 **Shuchi** GitHub: [@shuchish06](https://github.com/shuchish06)
